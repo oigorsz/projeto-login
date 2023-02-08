@@ -14,6 +14,7 @@
     }
     section#login {
         width: 80vw;
+        height: 300px;
     }
 
     section#login > div#img {
@@ -34,6 +35,7 @@
     }
     section#login {
         width: 990px;
+        height: 350px;
     }
 
     section#login > div#img {
@@ -53,6 +55,7 @@
     }
 
     div#form > p {
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 10px 0px;
     }
 }
